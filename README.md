@@ -10,7 +10,7 @@
 **Semester:** 6   
 **Batch:** 2022-26
 
-### **Under the Guidance of**
+### **Submitted to: **
 - **Dr. Latika Pinjarkar**  
 - **Dr. Parul Dubey** (Capstone Project Coordinator)  
 
