@@ -2,8 +2,8 @@
  
 
 ### **Submitted by**
-1. **Aryan Paratakke** (PRN: 22070521070)  
-2. **Saumitra Patil** (PRN: 22070521077) 
+1. **Aryan Paratakke** (PRN: 22070521070) [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Aryan152005)   
+2. **Saumitra Patil** (PRN: 22070521077) [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/saumitrapatil)   
 
 **Group Number:** 60   
 **Course:** B. Tech Computer Science and Engineering  
